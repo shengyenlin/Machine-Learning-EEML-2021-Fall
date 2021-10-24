@@ -11,5 +11,3 @@ install_python_packages:
 	$(VS) $(INSTALL) ms-toolsai.jupyter-keymap
 	$(VS) $(INSTALL) ms-toolsai.jupyter-renderers
 
-git_init:
-	

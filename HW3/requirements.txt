@@ -95,7 +95,7 @@ pyasn1-modules==0.2.8
 pycparser==2.20
 pyjwt==1.7.1
 pyopenssl==19.1.0
-pysocks==1.7.1
+pysocks==1.7.1P
 python==3.6.8
 python-dateutil==2.8.1
 python_abi==3.6

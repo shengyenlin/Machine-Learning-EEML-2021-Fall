@@ -14,3 +14,4 @@ install_HW_packages:
 	pip install -r requirements_HW3.txt
 	pip install opencv-python
 	pip install optuna
+	pip install "notebook>=5.3" "ipywidgets>=7.5"

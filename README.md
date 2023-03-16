@@ -1,6 +1,6 @@
 # Machine learning, 2021 Fall
 
-This is a graduate-level deep learning course that introduces deep learning techniques and models with concentration on mathmatical background of each technique and model. This repository contains my solutions to the homework assignments.
+This is a graduate-level deep learning course that introduces deep learning techniques and models with concentration on mathmatical background of each technique and model. This repository contains my solutions to the homework assignments. Please refer to `report.pdf` in each homework directory.
 
 Professor: [Pei-Yuan Wu](http://www.ee.ntu.edu.tw/profile1.php?id=1060803), graduate institution of communication engineering @ National Taiwan University
 

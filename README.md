@@ -26,23 +26,23 @@ Kaggle: (Public/Private/Total)
 
 - HW1: 
   - PM2.5 Prediction
-  - 1/12/58 on [kaggle](https://www.kaggle.com/competitions/ntueeml2021fallhw1), [slide](https://docs.google.com/presentation/d/1XyeZkjYJC3ERQ1VzUfbzu3UdpEwav1FR/edit#slide=id.p8)
+  - 1 / 12 / 58 on [kaggle](https://www.kaggle.com/competitions/ntueeml2021fallhw1), [slide](https://docs.google.com/presentation/d/1XyeZkjYJC3ERQ1VzUfbzu3UdpEwav1FR/edit#slide=id.p8)
   - Handcraft linear regression with data preprocessing techniques
 - HW2: 
   - Income 50K prediction
-  - 5/5/49 on [kaggle](https://www.kaggle.com/competitions/ml-2021fall-hw2), [slide](https://docs.google.com/presentation/d/1GoDUDGcJyKm6hFjGACtsk2WW85ZTFUOO/edit)
+  - 5 / 5 / 49 on [kaggle](https://www.kaggle.com/competitions/ml-2021fall-hw2), [slide](https://docs.google.com/presentation/d/1GoDUDGcJyKm6hFjGACtsk2WW85ZTFUOO/edit)
   - Handcraft logistic regression, probilistic generative model, random forest
 - HW3: 
   - Face Expression Prediction
-  - 19/16/47 on [kaggle](https://www.kaggle.com/competitions/ml-2021fall-hw3/overview), [slide](https://docs.google.com/presentation/d/10CcyjvssSeIxJMpHHcRhuCOQ930EXL0d/edit#slide=id.p1)
+  - 19 / 16 /4 7 on [kaggle](https://www.kaggle.com/competitions/ml-2021fall-hw3/overview), [slide](https://docs.google.com/presentation/d/10CcyjvssSeIxJMpHHcRhuCOQ930EXL0d/edit#slide=id.p1)
   - CNN
 - HW4: 
   - Text Sentiment Classification
-  - 13/11/37 on [kaggle](https://www.kaggle.com/c/ml-2021fall-hw4), [slide](https://docs.google.com/presentation/d/1zXLUlyf_4lgr-AnRntUAN9kFEqri1OWujdycv9f_Qx4/edit#slide=id.gfa6ac69836_0_6)
+  - 13 / 11 / 37 on [kaggle](https://www.kaggle.com/c/ml-2021fall-hw4), [slide](https://docs.google.com/presentation/d/1zXLUlyf_4lgr-AnRntUAN9kFEqri1OWujdycv9f_Qx4/edit#slide=id.gfa6ac69836_0_6)
   - RNN / BOW+DNN
 - HW5: 
   - Unsupervised Learning - PCA of colored faces, image clustering
-  - 19/16/47 on [kaggle](https://www.kaggle.com/competitions/ml-2021fall-hw3/overview), [slide](https://docs.google.com/presentation/d/1m9ftjCGXgRxvgtdWkhUPW3toGsOcUKdOpUzhnEwdkhI/edit#slide=id.g106a70c3997_0_162)
+  - 19 / 16 / 47 on [kaggle](https://www.kaggle.com/competitions/ml-2021fall-hw3/overview), [slide](https://docs.google.com/presentation/d/1m9ftjCGXgRxvgtdWkhUPW3toGsOcUKdOpUzhnEwdkhI/edit#slide=id.g106a70c3997_0_162)
   - PCA, t-SNE, K-means 
 
 Please refer to each homework directory for details.

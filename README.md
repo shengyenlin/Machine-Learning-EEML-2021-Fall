@@ -1,4 +1,4 @@
-# Machine learning, 2022 Fall
+# Machine learning, 2021 Fall
 
 This is a graduate-level statistical learning course that introduces deep learning techniques and models with concentration on mathmatical background of each technique and model. This repository contains my solutions to the homework assignments.
 

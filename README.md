@@ -2,7 +2,7 @@
 
 This is a graduate-level statistical learning course that introduces deep learning techniques and models with concentration on mathmatical background of each technique and model. This repository contains my solutions to the homework assignments.
 
-Professor: [Pei-Yuan We](http://www.ee.ntu.edu.tw/profile1.php?id=1060803), graduate institution of communication engineering @ National Taiwan University
+Professor: [Pei-Yuan Wu](http://www.ee.ntu.edu.tw/profile1.php?id=1060803), graduate institution of communication engineering @ National Taiwan University
 
 Final score: A+
 
